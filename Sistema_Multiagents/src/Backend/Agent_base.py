@@ -7,7 +7,7 @@ from transformers import pipeline, AutoTokenizer, AutoModelForCausalLM
 from huggingface_hub import login
 
 # --- Autenticació amb Hugging Face ---
-HUGGINGFACE_API_KEY = "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"
+HUGGINGFACE_API_KEY = "KEY PRIVADA ES VISUALITZARÀ A L'ARXIU ORIGINAL"
 login(HUGGINGFACE_API_KEY)
 
 # --- Carreguem el model de llenguatge ---
